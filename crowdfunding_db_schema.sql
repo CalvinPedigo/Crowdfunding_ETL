@@ -1,3 +1,7 @@
+CREATE DATABASE crowdfunding_db;
+
+USEE crowdfuding_db;
+
 CREATE TABLE contacts (
     contact_id INT PRIMARY KEY NOT NULL,
     first_name VARCHAR NOT NULL,
